@@ -1,7 +1,7 @@
 
 @rem without quotes:
 @set confDirDstPrefix=%TEMP%\chromeUsrData\User Data
-@set chomeExe=C:\bin\chrome\chrome.exe
+@set chomeExe=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 
 @set confDirSrc="%~fd0\..\chromeUsrDataTemplate"
 @set i=0
