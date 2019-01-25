@@ -17,6 +17,20 @@ Either one of the following:
 
 run chrome-tmp-usr.bat
 
+
+## Customization
+
+You may want your original "Local State" and "Default\Preferences" and "Default\Bookmarks" to be used.
+
+In this case, you can change confDirDstPrefix in line 3 to where your original user profile is.
+
+For example, change line 3 to:
+
+@set confDirDstPrefix=%USERPROFILE%\AppData\Local\Google\Chrome\User Data
+
+or you can edit the content of the folder: chromeUsrDataTemplate
+
+
 ## How it works
 
 By using "--user-data-dir=" switch of chrome, you can specify a different user profile directory.
