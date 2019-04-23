@@ -1,1 +1,139 @@
-﻿{"alternate_error_pages":{"enabled":false},"bookmark_bar":{"show_on_all_tabs":true},"browser":{"clear_lso_data_enabled":true,"pepper_flash_settings_enabled":true},"custom_handlers":{"enabled":false,"ignored_protocol_handlers":[],"registered_protocol_handlers":[]},"data_reduction_lo_fi":{"load_images_requests_per_session":0,"load_images_snackbars_shown_per_session":0,"was_used_this_session":false},"default_apps_install_state":3,"download":{"default_directory":"D:\\dl","directory_upgrade":true},"enable_do_not_track":true,"extensions":{"alerts":{"initialized":true},"chrome_url_overrides":{"bookmarks":[{"active":true,"entry":"chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html"}]}},"http_original_content_length":"0","http_received_content_length":"0","intl":{"charset_default":"UTF-8"},"invalidator":{},"media":{},"net":{"network_prediction_options":2},"plugins":{"plugins_list":[]},"profile":{"avatar_bubble_tutorial_shown":2,"avatar_index":26,"block_third_party_cookies":true,"content_settings":{"exceptions":{"app_banner":{},"auto_select_certificate":{},"automatic_downloads":{},"background_sync":{},"bluetooth_guard":{},"cookies":{},"durable_storage":{},"fullscreen":{},"geolocation":{},"images":{},"javascript":{},"keygen":{},"media_stream_camera":{},"media_stream_mic":{},"midi_sysex":{},"mixed_script":{},"mouselock":{},"notifications":{},"plugins":{},"popups":{},"ppapi_broker":{},"protocol_handler":{},"push_messaging":{},"site_engagement":{},"ssl_cert_decisions":{},"usb_chooser_data":{}},"pref_version":1},"default_content_setting_values":{"automatic_downloads":2,"background_sync":2,"cookies":4,"geolocation":2,"media_stream_camera":2,"media_stream_mic":2,"midi_sysex":2,"notifications":2,"plugins":2,"ppapi_broker":2},"exit_type":"Normal","exited_cleanly":true,"icon_version":4,"managed_user_id":""},"protection":{"macs":{}},"safebrowsing":{"enabled":false},"search":{"suggest_enabled":false},"settings":{"privacy":{"drm_enabled":false}},"spellcheck":{"dictionaries":[],"dictionary":""},"translate":{"enabled":false},"toolbar_migrated_component_action_status":{}}
+{
+	"alternate_error_pages": {
+		"enabled": false
+	},
+	"bookmark_bar": {
+		"show_on_all_tabs": true
+	},
+	"browser": {
+		"clear_lso_data_enabled": true,
+		"pepper_flash_settings_enabled": true
+	},
+	"custom_handlers": {
+		"enabled": false,
+		"ignored_protocol_handlers": [],
+		"registered_protocol_handlers": []
+	},
+	"data_reduction_lo_fi": {
+		"load_images_requests_per_session": 0,
+		"load_images_snackbars_shown_per_session": 0,
+		"was_used_this_session": false
+	},
+	"default_apps_install_state": 3,
+	"download": {
+		"default_directory": "D:\\dl",
+		"directory_upgrade": true
+	},
+	"enable_do_not_track": true,
+	"extensions": {
+		"alerts": {
+			"initialized": true
+		},
+		"chrome_url_overrides": {
+			"bookmarks": [{
+				"active": true,
+				"entry": "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html"
+			}]
+		}
+	},
+	"http_original_content_length": "0",
+	"http_received_content_length": "0",
+	"intl": {
+		"charset_default": "UTF-8"
+	},
+	"invalidator": {},
+	"media": {},
+	"net": {
+		"network_prediction_options": 2
+	},
+	"payments": {
+		"can_make_payment_enabled": false
+	},
+	"plugins": {
+		"plugins_list": []
+	},
+	"profile": {
+		"avatar_bubble_tutorial_shown": 2,
+		"avatar_index": 26,
+		"block_third_party_cookies": true,
+		"content_settings": {
+			"exceptions": {
+				"app_banner": {},
+				"auto_select_certificate": {},
+				"automatic_downloads": {},
+				"background_sync": {},
+				"bluetooth_guard": {},
+				"cookies": {},
+				"durable_storage": {},
+				"fullscreen": {},
+				"geolocation": {},
+				"images": {},
+				"javascript": {},
+				"keygen": {},
+				"media_stream_camera": {},
+				"media_stream_mic": {},
+				"midi_sysex": {},
+				"mixed_script": {},
+				"mouselock": {},
+				"notifications": {},
+				"plugins": {},
+				"popups": {},
+				"ppapi_broker": {},
+				"protocol_handler": {},
+				"push_messaging": {},
+				"site_engagement": {},
+				"ssl_cert_decisions": {},
+				"usb_chooser_data": {}
+			},
+			"pref_version": 1
+		},
+		"default_content_setting_values": {
+			"automatic_downloads": 2,
+			"background_sync": 2,
+			"cookies": 4,
+			"geolocation": 2,
+			"media_stream_camera": 2,
+			"media_stream_mic": 2,
+			"midi_sysex": 2,
+			"notifications": 2,
+			"payment_handler": 2,
+			"plugins": 2,
+			"ppapi_broker": 2
+		},
+		"exit_type": "Normal",
+		"exited_cleanly": true,
+		"icon_version": 4,
+		"managed_user_id": ""
+	},
+	"protection": {
+		"macs": {}
+	},
+	"safebrowsing": {
+		"enabled": false
+	},
+	"search": {
+		"suggest_enabled": false
+	},
+	"settings": {
+		"privacy": {
+			"drm_enabled": false
+		}
+	},
+	"signin": {
+		"allowed": false,
+		"allowed_on_next_startup": false
+	},
+	"spellcheck": {
+		"dictionaries": [],
+		"dictionary": ""
+	},
+	"translate": {
+		"enabled": false
+	},
+	"toolbar_migrated_component_action_status": {},
+	"webkit": {
+		"webprefs": {
+			"encrypted_media_enabled": false
+		}
+	}
+}
