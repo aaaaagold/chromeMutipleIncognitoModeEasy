@@ -20,6 +20,19 @@
 		"was_used_this_session": false
 	},
 	"default_apps_install_state": 3,
+	"devtools": {
+		"preferences": {
+			"consoleGroupSimilar": "false",
+			"consoleTimestampsEnabled": "true",
+			"currentDockState": "\"right\"",
+			"monitoringXHREnabled": "true",
+			"network_log.preserve-log": "true",
+			"panel-selectedTab": "\"console\"",
+			"preserveConsoleLog": "true",
+			"textEditorIndent": "\"\\t\"",
+			"uiTheme": "\"dark\""
+		}
+	},
 	"download": {
 		"default_directory": "D:\\dl",
 		"directory_upgrade": true
