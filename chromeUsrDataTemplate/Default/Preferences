@@ -81,7 +81,12 @@
 				"fullscreen": {},
 				"geolocation": {},
 				"images": {},
-				"javascript": {},
+				"javascript": {
+					"zh.wikipedia.org,*": {
+						"last_modified": "0",
+						"setting": 2
+					}
+				},
 				"keygen": {},
 				"media_stream_camera": {},
 				"media_stream_mic": {},
