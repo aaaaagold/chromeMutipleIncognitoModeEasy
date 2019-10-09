@@ -82,6 +82,14 @@
 				"geolocation": {},
 				"images": {},
 				"javascript": {
+					"[*.]qq.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"zh.m.wikipedia.org,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"zh.wikipedia.org,*": {
 						"last_modified": "0",
 						"setting": 2
