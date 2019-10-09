@@ -82,7 +82,31 @@
 				"geolocation": {},
 				"images": {},
 				"javascript": {
+					"[*.]cn,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]baidu.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]ifeng.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]qq.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]sina.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]weibo.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]csdn.net,*": {
 						"last_modified": "0",
 						"setting": 2
 					},
