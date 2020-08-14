@@ -76,7 +76,12 @@
 				"automatic_downloads": {},
 				"background_sync": {},
 				"bluetooth_guard": {},
-				"cookies": {},
+				"cookies": {
+					"[*.]wikipedia.org,*": {
+						"last_modified": "13241882092294013",
+						"setting": 2
+					}
+				},
 				"durable_storage": {},
 				"fullscreen": {},
 				"geolocation": {},
@@ -110,12 +115,8 @@
 						"last_modified": "0",
 						"setting": 2
 					},
-					"zh.m.wikipedia.org,*": {
-						"last_modified": "0",
-						"setting": 2
-					},
-					"zh.wikipedia.org,*": {
-						"last_modified": "0",
+					"[*.]wikipedia.org,*": {
+						"last_modified": "13241882092294013",
 						"setting": 2
 					}
 				},
