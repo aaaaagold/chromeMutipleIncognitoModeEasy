@@ -81,6 +81,10 @@
 						"last_modified": "0",
 						"setting": 2
 					}
+					"[*.]yahoo.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					}
 				},
 				"durable_storage": {},
 				"fullscreen": {},
@@ -116,6 +120,10 @@
 						"setting": 2
 					},
 					"[*.]wikipedia.org,*": {
+						"last_modified": "0",
+						"setting": 2
+					}
+					"[*.]yahoo.com,*": {
 						"last_modified": "0",
 						"setting": 2
 					}
