@@ -111,6 +111,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"[*.]udn.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]weibo.com,*": {
 						"last_modified": "0",
 						"setting": 2
