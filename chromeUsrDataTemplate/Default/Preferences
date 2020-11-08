@@ -77,6 +77,10 @@
 				"background_sync": {},
 				"bluetooth_guard": {},
 				"cookies": {
+					"[*.]twitter.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]wikipedia.org,*": {
 						"last_modified": "0",
 						"setting": 2
