@@ -91,6 +91,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"[*.]wikipedia.org,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 				},
 				"bluetooth_guard": {},
 				"cookies": {
@@ -98,14 +102,14 @@
 						"last_modified": "0",
 						"setting": 2
 					},
-					"[*.]wikipedia.org,*": {
-						"last_modified": "0",
-						"setting": 2
-					},
 					"[*.]yahoo.com,*": {
 						"last_modified": "0",
 						"setting": 2
 					}
+					"[*.]wikipedia.org,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 				},
 				"durable_storage": {},
 				"fullscreen": {},
@@ -144,6 +148,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"[*.]yahoo.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					}
 					"[*.]csdn.net,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -152,10 +160,6 @@
 						"last_modified": "0",
 						"setting": 2
 					},
-					"[*.]yahoo.com,*": {
-						"last_modified": "0",
-						"setting": 2
-					}
 				},
 				"keygen": {},
 				"media_stream_camera": {},
