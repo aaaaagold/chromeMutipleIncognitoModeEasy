@@ -75,6 +75,10 @@
 				"auto_select_certificate": {},
 				"automatic_downloads": {},
 				"background_sync": {
+					"[*.]cn,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]facebook.com,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -102,6 +106,10 @@
 				},
 				"bluetooth_guard": {},
 				"cookies": {
+					"[*.]cn,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]twitter.com,*": {
 						"last_modified": "0",
 						"setting": 2
