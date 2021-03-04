@@ -24,7 +24,11 @@
 		"preferences": {
 			"consoleGroupSimilar": "false",
 			"consoleTimestampsEnabled": "true",
-			"currentDockState": "\"right\"",
+			"currentDockState": "\"undocked\"",
+			"cssSourceMapsEnabled": "false",
+			"domWordWrap": "false",
+			"help.show-release-note": "false",
+			"jsSourceMapsEnabled": "false",
 			"monitoringXHREnabled": "true",
 			"network_log.preserve-log": "true",
 			"panel-selectedTab": "\"console\"",
