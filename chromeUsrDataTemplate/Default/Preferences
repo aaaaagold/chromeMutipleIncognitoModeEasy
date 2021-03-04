@@ -2,6 +2,10 @@
 	"alternate_error_pages": {
 		"enabled": false
 	},
+	"autofill": {
+		"credit_card_enabled": false,
+		"profile_enabled": false
+	},
 	"bookmark_bar": {
 		"show_on_all_tabs": true
 	},
@@ -9,6 +13,7 @@
 		"clear_lso_data_enabled": true,
 		"pepper_flash_settings_enabled": true
 	},
+	"credentials_enable_autosignin": false,
 	"custom_handlers": {
 		"enabled": false,
 		"ignored_protocol_handlers": [],
