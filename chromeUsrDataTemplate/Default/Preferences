@@ -84,6 +84,10 @@
 				"auto_select_certificate": {},
 				"automatic_downloads": {},
 				"background_sync": {
+					"[*.]kknews.cc,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]cn,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -115,6 +119,10 @@
 				},
 				"bluetooth_guard": {},
 				"cookies": {
+					"[*.]kknews.cc,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]cn,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -137,6 +145,10 @@
 				"geolocation": {},
 				"images": {},
 				"javascript": {
+					"[*.]kknews.cc,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]cn,*": {
 						"last_modified": "0",
 						"setting": 2
