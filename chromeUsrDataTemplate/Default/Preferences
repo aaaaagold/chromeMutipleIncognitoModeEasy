@@ -11,6 +11,7 @@
 	},
 	"browser": {
 		"clear_lso_data_enabled": true,
+		"enable_spellchecking": false,
 		"pepper_flash_settings_enabled": true
 	},
 	"credentials_enable_autosignin": false,
@@ -143,7 +144,24 @@
 				"durable_storage": {},
 				"fullscreen": {},
 				"geolocation": {},
-				"images": {},
+				"images": {
+					"[*.]kknews.cc,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]cn,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]baidu.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]beanfun.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					}
+				},
 				"javascript": {
 					"[*.]kknews.cc,*": {
 						"last_modified": "0",
@@ -213,17 +231,26 @@
 			"pref_version": 1
 		},
 		"default_content_setting_values": {
+			"ar": 2,
 			"automatic_downloads": 2,
 			"background_sync": 2,
+			"clipboard": 2,
 			"cookies": 4,
+			"file_system_write_guard": 2,
 			"geolocation": 2,
+			"hid_guard": 2,
+			"idle_detection": 2,
 			"media_stream_camera": 2,
 			"media_stream_mic": 2,
 			"midi_sysex": 2,
 			"notifications": 2,
 			"payment_handler": 2,
 			"plugins": 2,
-			"ppapi_broker": 2
+			"ppapi_broker": 2,
+			"sensors": 2,
+			"serial_guard": 2,
+			"usb_guard": 2,
+			"vr": 2
 		},
 		"exit_type": "Normal",
 		"exited_cleanly": true,
