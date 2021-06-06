@@ -28,8 +28,10 @@
 	"default_apps_install_state": 3,
 	"devtools": {
 		"discover_tcp_targets": false,
+		"discover_usb_devices": false,
 		"port_forwarding_config": {},
 		"port_forwarding_default_set": false,
+		"port_forwarding_enabled": false,
 		"preferences": {
 			"consoleGroupSimilar": "false",
 			"consoleTimestampsEnabled": "true",
