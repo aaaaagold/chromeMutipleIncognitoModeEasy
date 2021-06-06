@@ -27,6 +27,9 @@
 	},
 	"default_apps_install_state": 3,
 	"devtools": {
+		"discover_tcp_targets": false,
+		"port_forwarding_config": {},
+		"port_forwarding_default_set": false,
 		"preferences": {
 			"consoleGroupSimilar": "false",
 			"consoleTimestampsEnabled": "true",
@@ -36,12 +39,14 @@
 			"help.show-release-note": "false",
 			"jsSourceMapsEnabled": "false",
 			"monitoringXHREnabled": "true",
+			"networkLogColumns":"{\"protocol\":{\"visible\":true},\"domain\":{\"visible\":true},\"remoteaddress\":{\"visible\":true}}",
 			"network_log.preserve-log": "true",
 			"panel-selectedTab": "\"console\"",
 			"preserveConsoleLog": "true",
 			"textEditorIndent": "\"\\t\"",
 			"uiTheme": "\"dark\""
-		}
+		},
+		"tcp_discovery_config":[]
 	},
 	"download": {
 		"default_directory": "D:\\dl",
