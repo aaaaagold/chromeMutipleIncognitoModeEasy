@@ -182,6 +182,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"docs.github.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]ifeng.com,*": {
 						"last_modified": "0",
 						"setting": 2
