@@ -69,6 +69,7 @@
 	"http_original_content_length": "0",
 	"http_received_content_length": "0",
 	"intl": {
+		"accept_languages":"en,en-US",
 		"charset_default": "UTF-8"
 	},
 	"invalidator": {},
