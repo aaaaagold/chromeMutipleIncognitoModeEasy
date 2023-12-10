@@ -270,6 +270,7 @@
 			"payment_handler": 2,
 			"plugins": 2,
 			"ppapi_broker": 2,
+			"protected_media_identifier": 2,
 			"sensors": 2,
 			"serial_guard": 2,
 			"usb_guard": 2,
