@@ -21,11 +21,11 @@
 @goto END
 
 :mainProcessNotFound_check_lockfile
-@ping -n 2 localhost > nul 
+@timeout /t 2 /nobreak > nul 
 @if exist %confDirDst%\lockfile (
  goto mainProcessNotFound_check_lockfile 
 )
-@ping -n 2 localhost > nul 
+@timeout /t 2 /nobreak > nul 
 @if exist %confDirDst%\lockfile (
  goto mainProcessNotFound_check_lockfile 
 )
