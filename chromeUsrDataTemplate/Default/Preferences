@@ -50,6 +50,9 @@
 			"textEditorIndent": "\"\\t\"",
 			"uiTheme": "\"dark\""
 		},
+		"synced_preferences_sync_disabled": {
+			"": ""
+		},
 		"tcp_discovery_config":[]
 	},
 	"download": {
