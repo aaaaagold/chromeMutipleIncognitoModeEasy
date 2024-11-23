@@ -51,6 +51,7 @@
 			"uiTheme": "\"dark\""
 		},
 		"synced_preferences_sync_disabled": {
+			"console-timestamps-enabled": "true",
 			"": ""
 		},
 		"tcp_discovery_config":[]
