@@ -258,6 +258,7 @@
 			},
 			"pref_version": 1
 		},
+		"cookie_controls_mode": 1,
 		"default_content_setting_values": {
 			"ar": 2,
 			"auto_picture_in_picture": 2,
