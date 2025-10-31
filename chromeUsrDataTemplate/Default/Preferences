@@ -274,6 +274,7 @@
 			"hid_guard": 2,
 			"idle_detection": 2,
 			"local_fonts": 2,
+			"local_network_access": 2,
 			"media_stream_camera": 2,
 			"media_stream_mic": 2,
 			"midi_sysex": 2,
