@@ -129,6 +129,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"[*.]doacart.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]wikipedia.org,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -153,6 +157,10 @@
 						"setting": 2
 					},
 					"[*.]youtube.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]doacart.com,*": {
 						"last_modified": "0",
 						"setting": 2
 					},
@@ -228,6 +236,10 @@
 						"setting": 2
 					},
 					"[*.]youtube.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]doacart.com,*": {
 						"last_modified": "0",
 						"setting": 2
 					},
