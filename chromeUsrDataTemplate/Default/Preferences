@@ -41,7 +41,7 @@
 			"help.show-release-note": "false",
 			"jsSourceMapsEnabled": "false",
 			"monitoringXHREnabled": "true",
-			"networkLogColumns":"{\"protocol\":{\"visible\":true},\"domain\":{\"visible\":true},\"remoteaddress\":{\"visible\":true}}",
+			"networkLogColumns": "{\"protocol\":{\"visible\":true},\"domain\":{\"visible\":true},\"remoteaddress\":{\"visible\":true}}",
 			"networkLogLargeRows": "true",
 			"networkShowSettingsToolbar": "true",
 			"network_log.preserve-log": "true",
@@ -300,6 +300,7 @@
 			"storage_access": 2,
 			"usb_guard": 2,
 			"vr": 2,
+			"web_app_installation": 2,
 			"webid_api": 2,
 			"window_placement": 2
 		},
