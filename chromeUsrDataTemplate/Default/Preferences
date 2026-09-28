@@ -117,6 +117,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"[*.]tradingview.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]twitter.com,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -126,6 +130,10 @@
 						"setting": 2
 					},
 					"[*.]youtube.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]cnyes.com,*": {
 						"last_modified": "0",
 						"setting": 2
 					},
@@ -148,6 +156,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"[*.]tradingview.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"[*.]twitter.com,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -157,6 +169,10 @@
 						"setting": 2
 					},
 					"[*.]youtube.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]cnyes.com,*": {
 						"last_modified": "0",
 						"setting": 2
 					},
@@ -203,6 +219,10 @@
 						"last_modified": "0",
 						"setting": 2
 					},
+					"[*.]cnyes.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
 					"docs.github.com,*": {
 						"last_modified": "0",
 						"setting": 2
@@ -216,6 +236,10 @@
 						"setting": 2
 					},
 					"[*.]sina.com,*": {
+						"last_modified": "0",
+						"setting": 2
+					},
+					"[*.]tradingview.com,*": {
 						"last_modified": "0",
 						"setting": 2
 					},
@@ -287,6 +311,7 @@
 			"idle_detection": 2,
 			"local_fonts": 2,
 			"local_network_access": 2,
+			"loopback_network": 2,
 			"media_stream_camera": 2,
 			"media_stream_mic": 2,
 			"midi_sysex": 2,
