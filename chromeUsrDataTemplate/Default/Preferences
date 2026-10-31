@@ -4,6 +4,7 @@
 	},
 	"autofill": {
 		"credit_card_enabled": false,
+		"email_verification_enabled": false,
 		"profile_enabled": false
 	},
 	"bookmark_bar": {
